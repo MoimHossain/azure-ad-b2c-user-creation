@@ -1,8 +1,3 @@
-# Maestro Portal - A Proof Of Concept
+# Azure B2C user creation
 
-A repository that has boilerplate with React JS, Redux, Azure AD MSAL login implementation
-
-A web development dev-env setup ready to rock with F5 debug/run experience. Does MSAL login against an Azure AD and shows invoking APIs
-with Access Tokens. 
-
-Also shows the AJAX flows with Redux reducers.
+A repository that has boilerplate with React JS, Redux, Azure AD MSAL login implementation allows creating users in Azure B2C tenent
